@@ -71,7 +71,8 @@ _A checklist to track completed trainings, badges, and skills across DevOps, Clo
 
 ## 📂 **Projects & Portfolio**
 
-- [x] Incident Tracker (Flask + SQLite + Monitoring)  
+- [x] Incident Tracker (Flask + SQLite + Monitoring)
+- [x] URL Repository (Flask + HTML + CSS)  
 - [ ] Log Rotation & Alerting with Shell Script  
 - [ ] GitHub Actions CI for Incident Tracker  
 - [ ] Cloud Resume Challenge  
@@ -80,15 +81,3 @@ _A checklist to track completed trainings, badges, and skills across DevOps, Clo
 
 ---
 
-## 🏅 **Certifications & Badges (Verified)**
-
-| 📛 Badge / Cert                        | ✅ Status | Date       |
-|----------------------------------------|----------|------------|
-| AWS Knowledge: Cloud Essentials        | ✅        | 2024       |
-| AWS Knowledge: Compute                 | ✅        | 2024       |
-| AWS Cloud Quest                        | ☐         | –          |
-| Red Hat SA1 (Course Only)              | ✅        | –          |
-| AWS Certified Cloud Practitioner       | ☐         | –          |
-| Splunk Fundamentals 1                  | ☐         | –          |
-| Git – Simplilearn                      | ✅        | Sept. 2024 |
-| Docker – Simplilearn                   | ✅        | Sept. 2024 |
