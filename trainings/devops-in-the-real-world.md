@@ -1,7 +1,7 @@
 # 🌐 DevOps in the Real World
 
 **Platform:** Udemy  
-**Completed:** –  
+**Completed:** –  2025
 **Duration:** ~9.5 hours  
 **Type:** Practical / Intermediate
 
