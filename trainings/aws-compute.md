@@ -2,8 +2,8 @@
 
 **Platform:** AWS Skill Builder (Badge Program)  
 **Type:** Badge  
-**Date Earned:** 2024  
-**Badge:** ✅ [AWS Knowledge: Compute Badge](https://www.credly.com/) *(upload screenshot in `/certificates`)*
+**Date Earned:** September 2024  
+**Badge:** ✅ [AWS Knowledge: Compute Badge](https://www.credly.com/badges/ac1a3872-f900-442e-bb70-eeff55762236/public_url)
 
 ---
 
@@ -24,4 +24,5 @@
 ---
 
 ## 📸 Certificate/Badge Screenshot
-![AWS Compute Badge](../certificates/aws-compute-badge.png)
+![image](https://github.com/user-attachments/assets/775810a5-d6ed-401b-9de4-a2e36f5ec3f7)
+
