@@ -23,6 +23,8 @@
 - Gained a better understanding of toolchains used in real-world operations.
 
 ---
+## 📸 Certificate/Badge Screenshot
+
 
 ## 🔗 Resources
 - [Course Link (Udemy)](https://www.udemy.com/course/devops-linux/?srsltid=AfmBOoqfFvNYFK1ffc7oxb8CbAjtgD_aUeUg5US5iqp1Vy06hUeucQO6)
