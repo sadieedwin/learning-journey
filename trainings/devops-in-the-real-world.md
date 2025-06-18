@@ -24,7 +24,7 @@
 
 ---
 ## 📸 Certificate/Badge Screenshot
-
+![image](https://github.com/user-attachments/assets/a6572961-40c9-4123-aca7-8ef26c69ca81)
 
 ## 🔗 Resources
 - [Course Link (Udemy)](https://www.udemy.com/course/devops-linux/?srsltid=AfmBOoqfFvNYFK1ffc7oxb8CbAjtgD_aUeUg5US5iqp1Vy06hUeucQO6)
